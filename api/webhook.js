@@ -4,7 +4,7 @@ export default async function handler(req, res) {
     const donasi = req.body;
     
     // ⚠️ SANGAT PENTING: GANTI TULISAN DI BAWAH INI DENGAN TOKEN BOT ANDA!
-    const BOT_TOKEN = 'TOKEN_BOT_DARI_BOTFATHER_TARUH_DISINI'; 
+    const BOT_TOKEN = '8515558602:AAEXz6mg9rbA00uow9pK8f8VA29REIKq-Mw'; 
     const ADMIN_ID = '5552266500';
 
     // Katalog Barang Vercel
